@@ -1,0 +1,14 @@
+# Personal virtual environment
+/venv
+venv/
+
+# Pycharm Config files
+/.idea
+/idea
+
+# Personal files
+/personal
+personal/
+
+/.env
+/*.db
